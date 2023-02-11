@@ -1,0 +1,47 @@
+body{
+    background-color:black;
+    position: relative;
+}
+.b2{
+    background-color:rgb(70,70,70);
+    width:300px;
+    position:relative;
+    top:25vh;
+    padding:20px;
+}
+.head{
+    color:green;
+    font-size:20px;
+    margin-top:-20px;
+}
+.main{
+    color:white;
+    line-height:25px;
+    font-size:20px;
+}
+hr{
+    width:130px;
+    background-color:rgb(140,140,140);
+    height:1px;
+    border:none;
+}
+.hr{
+    display:flex;
+}
+.fe{
+    color:white;
+    font-size:20px;
+    margin-top:-2px;
+}
+.circ{
+    height:60px;
+    width:60px;
+    border-radius:50%;
+    background-color:green;
+    position: relative;
+    top:50px;
+}
+.cire{
+    line-height:60px;
+    font-size:30px;
+}
